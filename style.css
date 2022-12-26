@@ -16,36 +16,36 @@ body {
 }
 
 .container {
-    max-width: 350px;
+    max-width: 21.875rem;
     margin: 0 auto;
 }
 
 .card {
-    width: 350px;
-    height: 300;
+    width: 21.875rem;
+    height: 31.875rem;
     background-color: hsl(0, 0%, 100%);
-    border-radius: 17px;
-    padding: 18px;
+    border-radius: 1.063rem;
+    padding: 1.125rem;
 }
 
 .qr-code {
     width: 100%;
-    border-radius: 12px;
+    border-radius: 0.75rem;
 }
 
 .text {
     text-align: center;
     margin: 0 1rem;
     font-size: 15px;
-    padding: 20px 15px;
+    padding: 1.25rem 0.938rem;
 }
 
 .text h2 {
     color: hsl(218, 44%, 22%);
-    padding-bottom: 15px;
+    padding-bottom: 0.938rem;
 }
 
 .text p {
     color: hsl(220, 15%, 55%);
-    padding: 0 15px;
+    padding: 0 0.938rem;
 }
